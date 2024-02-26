@@ -7,7 +7,7 @@ from firebase_admin import db, credentials
 from firebase_client.firebase_navigation import FirebaseClient as FCL
 
 
-TOKEN = '6490287753:AAFWdD-UoRWDBpvmMfwiXZZNfqxjvqHpYnA'
+TOKEN = 'TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 # ----------------------------------------------------------------------------------------------------
